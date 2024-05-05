@@ -7,10 +7,10 @@ Repositório com finalidade de armazenar resumos sobre Git e Github do curso de 
 
 | Aulas | Resumos |
 |-------|---------|
-|Criando e clonando repositórios| [Resumo]()|
-|Salvando alterações no Repositório local| [Resumo]()|
-|Desfazendo alterações no Repositório local| [Resumo]()|
-|Enviar e Baixar alterações no Repositório remoto| [Resumo]()|
+|Criando e clonando repositórios| [Resumo](https://github.com/Vongui/Resumos-Git-e-Github/blob/main/resumos/aula-Criando_e_Clonando_Repositorios.md)|
+|Salvando alterações no Repositório local| [Resumo](https://github.com/Vongui/Resumos-Git-e-Github/blob/main/resumos/aula-Salvando_altera%C3%A7%C3%B5es_no_Repositorio.md)|
+|Desfazendo alterações no Repositório local| [Resumo](https://github.com/Vongui/Resumos-Git-e-Github/blob/main/resumos/aula-Desfazendo_altera%C3%A7%C3%B5es_no_Repositorio.md)|
+|Enviar e Baixar alterações no Repositório remoto| [Resumo](https://github.com/Vongui/Resumos-Git-e-Github/blob/main/resumos/aula-Enviar_e_Baixar_altera%C3%A7%C3%B5es_Repositorio_remoto.md)|
 |Branches| [Resumo]()|
 
 ## 🔎Referências
