@@ -9,13 +9,12 @@
 
 ## Exemplos
 ```$ touch README.md``` 
-```$ git status```
+```$ git status```  
 **Retorno do comando**  
-    On branch main
+    On branch main  
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-        README.md/
-
+        README.md/  
 nothing added to commit but untracked files present (use "git add" to track)
 
 ```$ git add README.md```  
