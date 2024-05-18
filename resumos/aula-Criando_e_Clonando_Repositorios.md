@@ -8,7 +8,7 @@
 ## Exemplos
 ```$ mkdir novo_repositorio```  
 ```$ cd novo_repositorio ```  
-```$ git init```
+```$ git init```  
 ```$ git clone https://github.com/Vongui/Resumos-Git-e-Github```
 
 🚨**Esse passo-a-passo é relacionado a criação de um repositório, entrar nele, iniciar o Git e clonar um repositorio remoto dentro dele**
